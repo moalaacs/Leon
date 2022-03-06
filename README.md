@@ -1,1 +1,12 @@
-# HTML_And_CSS_Leon_Template
+# Leon
+
+## Description
+
+Responsive web template.
+
+## Technologies
+
+- HTML
+- CSS
+
+[Live Demo](https://moalaacs.github.io/Leon/).
